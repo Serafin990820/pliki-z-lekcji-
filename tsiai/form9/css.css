@@ -1,0 +1,29 @@
+header {
+    height: 10%;
+    width: 100%;
+    background-color: rgb(66, 52, 255);
+}
+
+#left {
+    width: 40%;
+    display: block !important;
+    background-color: rgb(98, 114, 255);
+}
+
+#right {
+    width: 60%;
+    background-color: rgb(67, 48, 238);
+}
+
+#all {
+    display: flex;
+}
+
+footer {
+    height: 10%;
+    background-color: rgb(26, 0, 172);
+}
+
+* {
+    margin: 0;
+}

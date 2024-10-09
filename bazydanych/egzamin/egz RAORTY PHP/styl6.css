@@ -1,0 +1,28 @@
+body {
+    font-family: Georgia;
+}
+
+.banner {
+    display: flex;
+    height: 100px;
+}
+
+.banner1 {
+    background-color: #3CB371;
+    color: white;
+    height: 100px;
+    width: 40%;
+}
+
+.banner2 {
+    background-color: #3CB371;
+    color: white;
+    height: 100px;
+    width: 40%;
+}
+
+.banner3 {
+    background-color: #3CB371;
+    height: 100px;
+    width: 20%;
+}

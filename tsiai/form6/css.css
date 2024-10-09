@@ -1,0 +1,19 @@
+.czerwony {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.grey {
+    background-color: grey;
+    color: rgb(61, 61, 61);
+}
+
+.purple {
+    background-color: blueviolet;
+    color: rgb(43, 12, 71);
+}
+
+.blue {
+    background-color: blue;
+    color: rgb(0, 0, 71);
+}

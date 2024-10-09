@@ -1,0 +1,53 @@
+* {
+    font-family: Georgia;
+    margin: auto;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+}
+
+#imgandli {
+    display: flex;
+}
+
+main {
+    display: flex;
+}
+
+aside {
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 30%;
+}
+
+article {
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 70%;
+}
+
+footer {
+    background-color: dimgray;
+    color: white;
+}
+
+p {
+    padding: 10px;
+}
+
+#indigo {
+    background-color: indigo;
+}
+
+#steelblue {
+    background-color: steelblue;
+}
+
+#olive {
+    background-color: olive;
+}
