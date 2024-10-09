@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>stronka jakaś super świetna</title>
+    <script src="./js.js" defer></script>
+</head>
+
+<body>
+
+    <h1 id="change">Mateusz baran</h1>
+
+
+    <input type="radio" name="plan" id="tree" value="1">
+    <label for="tree">Drzewa</label> <br>
+    <input type="radio" name="plan" id="bush" value="2">
+    <label for="bush">Krzew</label> <br>
+    <input type="radio" name="plan" id="byl" value="3">
+    <label for="byl">Byliny</label> <br>
+    <button id="send">Wyślij</button>
+
+
+    <p id="res"></p>
+
+
+    <div class="form" style="background-color: lime;">
+
+        <label for="email">email:</label>
+        <input type="email" name="email" id="email">
+        <br>
+        <label for="service">service</label>
+        <select name="service" id="service">
+            <option value="Naprawa komputera">Naprawa komputera</option>
+            <option value="odzyskiwanie danych">odzyskiwanie danych</option>
+            <option value="konfiguracja sieci">konfiguracja sieci</option>
+            <option value="inne">inne</option>
+        </select>
+        <input type="checkbox" name="copy" id="copy">
+        <label for="copy">Wyślij kopie wiadomości</label>
+        <br>
+        <button style="background-color: red;" id="reset">Resetuj</button>
+        <button style="background-color: green;" id="send2">Wyślij</button>
+        <p id="resultee"></p>
+        <p id="usl"></p>
+    </div>
+
+</body>
+
+</html>

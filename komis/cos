@@ -1,0 +1,59 @@
+-- INSERT INTO Handlowcy(imie,nazwisko,email, autor_wpisu, data_wpisu,login)
+-- VALUES('Milian', 'Ogon', 'milo@komis.pl', 'ibn','2010-09-01', 'milo'),
+-- -- ('Wojciech', 'Zak', 'wojt@komi.eu', 'ibn', '2010-09-02', 'wojt'),
+-- -- ('Piotr', 'Kupisz', 'pik@komis.eu', 'ktc', '2015-02-20', 'pik');
+
+-- ALTER TABLE Handlowcy 
+-- ADD sektor int;
+
+-- UPDATE Handlowcy
+-- SET sektor=1
+-- WHERE login in ('ibn', 'ktc');
+
+-- UPDATE Handlowcy
+-- SET sektor=2
+-- WHERE login in ('pik', 'milo');
+
+-- UPDATE Handlowcy
+-- SET sektor=3
+-- WHERE login = 'wojt';
+
+-- SELECT * 
+-- FROM Handlowcy;
+
+
+
+-- UPDATE Handlowcy
+-- SET email= 'milo@komis.eu'
+-- WHERE login = 'milo';
+
+
+
+
+-- DELETE
+-- FROM Handlowcy
+-- WHERE email = 'pik@komis.eu';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
